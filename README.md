@@ -8,7 +8,7 @@ The universal React Native testing library, powered by React Native Testing Libr
 npm install react-native-testing-suite
 ```
 ```sh
-npm install react-native-testing-suite
+yarn add react-native-testing-suite
 ```
 
 ## Usage
