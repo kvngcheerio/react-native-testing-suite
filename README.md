@@ -10,6 +10,7 @@ npm install react-native-testing-suite
 ```sh
 yarn add react-native-testing-suite
 ```
+---
 
 ## Usage
 
@@ -24,4 +25,4 @@ MIT
 
 ---
 
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+
