@@ -1,22 +1,18 @@
 # react-native-testing-suite
 
-package to help setup a well tested react-native project
+The universal React Native testing library, powered by React Native Testing Library.
 
 ## Installation
 
 ```sh
 npm install react-native-testing-suite
 ```
+```sh
+npm install react-native-testing-suite
+```
 
 ## Usage
 
-```js
-import { multiply } from 'react-native-testing-suite';
-
-// ...
-
-const result = await multiply(3, 7);
-```
 
 ## Contributing
 
